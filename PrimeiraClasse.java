@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Primeiraclasse{
+public class PrimeiraClasse{
   public static void main(String[]args){
     Aluno patropi = new Aluno();
     Scanner entrada = new Scanner(System.in);
